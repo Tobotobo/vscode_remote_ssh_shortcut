@@ -1,0 +1,18 @@
+{
+    "[bat]": {
+        "files.encoding": "shiftjis",
+        "files.eol": "\r\n",
+    },
+    "[vb]": {
+        "files.encoding": "shiftjis",
+        "files.eol": "\r\n",
+    },
+    "[vba]": {
+        "files.encoding": "shiftjis",
+        "files.eol": "\r\n",
+    },
+    "[vbs]": {
+        "files.encoding": "shiftjis",
+        "files.eol": "\r\n",
+    },
+}
